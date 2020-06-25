@@ -5,17 +5,17 @@ body, button, input, textarea {
   -webkit-font-smoothing: antialiased; }
 
 /* Hack so the svg's in bullets aren't given display block */
-.article-content li img {
+/*.article-content li img {
   display: inline;
   margin-left: 0;
   margin-right: 0;
-}
+} */
 
 /* Restore superscript styling */
-sup {
+/*sup {
   vertical-align: super;
   font-size: smaller;
-}
+} */
 
 /* Add some padding between list items */
 /*li {
